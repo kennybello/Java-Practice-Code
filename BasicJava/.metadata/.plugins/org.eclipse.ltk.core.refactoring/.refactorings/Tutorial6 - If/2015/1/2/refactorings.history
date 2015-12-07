@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;ForLoops&apos; to &apos;If&apos;&#x0A;- Original project: &apos;Tutorial6&apos;&#x0A;- Original element: &apos;ForLoops&apos;&#x0A;- Renamed element: &apos;If&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;ForLoops&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;{ForLoops.java[ForLoops" matchStrategy="1" name="If" qualified="false" references="true" similarDeclarations="false" stamp="1420523835695" textual="false" version="1.0"/>
+</session>
